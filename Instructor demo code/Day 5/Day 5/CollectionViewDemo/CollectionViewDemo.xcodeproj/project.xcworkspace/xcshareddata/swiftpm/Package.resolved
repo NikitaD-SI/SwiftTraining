@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "amaranthinerandomgenerators",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AmaranthineTech/AmaranthineRandomGenerators",
+      "state" : {
+        "branch" : "main",
+        "revision" : "1d8ed26e6d54c18b77bd9ae403fe986fdcc77d0f"
+      }
+    }
+  ],
+  "version" : 2
+}

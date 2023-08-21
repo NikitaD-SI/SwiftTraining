@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "81E2E549-BEA1-47EF-BFDC-FEA9025C4D4E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BEC8514C-4203-4040-ABB0-C7E900D13BA6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommunicationDemo/ViewControllerVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fetchResponse(updateUIWith:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BEC8514C-4203-4040-ABB0-C7E900D13BA6 - 82c83d3ec9834e6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CommunicationDemo.ViewControllerVM.fetchResponse(updateUIWith: () -&gt; ()) -&gt; ()"
+                  moduleName = "CommunicationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/instructor/Desktop/Day%205/CommunicationDemo/CommunicationDemo/ViewControllerVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "BEC8514C-4203-4040-ABB0-C7E900D13BA6 - 82c83d3ec9834e6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CommunicationDemo.ViewControllerVM.fetchResponse(updateUIWith: () -&gt; ()) -&gt; ()"
+                  moduleName = "CommunicationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/instructor/Desktop/Day%205/CommunicationDemo/CommunicationDemo/ViewControllerVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "BEC8514C-4203-4040-ABB0-C7E900D13BA6 - 82c83d3ec9834e6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CommunicationDemo.ViewControllerVM.fetchResponse(updateUIWith: () -&gt; ()) -&gt; ()"
+                  moduleName = "CommunicationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/instructor/Desktop/Day%205/CommunicationDemo/CommunicationDemo/ViewControllerVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "632">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
